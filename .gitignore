@@ -5,7 +5,6 @@ pyvenv.cfg
 /[Ee]tc/
 /[Ss]hare/
 /.idea/
-/[Ii]mages/
 photo.py
 email.py
 /PetImages/
