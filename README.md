@@ -13,7 +13,7 @@ Foi criado, também, um Dashboard em Power BI para realização da apresentaçã
 
 ## Dataset
 
-O dataset utilizado no Notebook B4Bank encontra-se na pasta datasets.
+O dataset utilizado no Notebook B4Bank encontra-se na pasta [datasets](https://github.com/matheusfterra/B4Bank/blob/master/datasets/data_scientist_case.xlsx).
 
 O próprio Notebook, ao ser executado, exporta um novo dataset, o qual é utilizado para criação do Dashboard, pelo Power BI.
 
@@ -26,12 +26,14 @@ B4Bank.ipynb
 
 ou
 
-[Notebook Online] (https://colab.research.google.com/drive/1jUwQw1OxdLj-66pHOX24_zVSlQETbEvw?usp=sharing)
+[Notebook Online](https://colab.research.google.com/drive/1jUwQw1OxdLj-66pHOX24_zVSlQETbEvw?usp=sharing)
 
 ## Autor
 
 Matheus Terra
 
 [LinkedIn](https://www.linkedin.com/in/matheus-terra/)
+
 [Instagram](https://www.instagram.com/engenheiro_automacao/)
+
 [WhatsApp](https://api.whatsapp.com/send?phone=5564999667424)
