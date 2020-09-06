@@ -22,7 +22,7 @@ O próprio Notebook, ao ser executado, exporta um novo dataset, o qual é utiliz
 
 O Notebook pode ser executado pelo repostório, ou pelo Notebook online Google Colab
 
-B4Bank.ipynb
+[B4Bank.ipynb](https://github.com/matheusfterra/B4Bank/blob/master/B4Bank.ipynb)
 
 ou
 
